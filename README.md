@@ -18,7 +18,7 @@ Experience the live application: [Worldwise by Devanshi](https://worldwise-by-de
 - **Persistent Storage:** Save visited cities using local storage to retain data across sessions.
 
 ## Technologies Used
-- **Frontend:** React.js, React Router, Context API (for state management), CSS Modules, Leaflet.js (for interactive maps)
+- **Frontend:** React.js, React Router, Context API (for state management), CSS Modules, [Leaflet.js](https://leafletjs.com/) (for interactive maps)
 - **Hosting:** Netlify
 
 ## Requirements
